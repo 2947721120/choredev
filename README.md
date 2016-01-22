@@ -2,7 +2,7 @@
 Chrome开发编辑器（CDE）是一个用于构建应用程序在Chrome平台开发工具
  - [Chrome Apps](https://developer.chrome.com/apps/about_apps) 在JavaScript和Web应用程序，或
  [Dart](https://www.dartlang.org/).CDE是建成一个Chrome应用程序写在飞镖和使用聚合物。CDE运行在Windows，Mac，Linux，和Chrome OS！CDE支持Git
-, [Polymer](http://www.polymer-project.org/), and mobile development.
+, [Polymer](http://www.polymer-project.org/), 和移动开发
 
 <a href="#">
 <img src="https://raw.githubusercontent.com/dart-lang/spark/master/doc/1px.png" width="220" height="0">
